@@ -6,7 +6,6 @@ Created on Tue May 20 13:26:03 2025
 @author: eliotmorard
 """
 
-################################################## UNIFORME
 import numpy as np
 from scipy.ndimage import gaussian_filter
 import imageio.v2 as imageio
