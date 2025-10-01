@@ -45,20 +45,16 @@ The goal was to automatically detect defective components from camera images to 
 <img src="images/tab-resume.png" alt="results" width="60%">
 
 ## 📎 Repository Structure
+```
 /Project1_DataChallenge
  ├── data/   # Jupyter notebooks (CNN, ResNet50/101)
- 
  ├── model/   # Jupyter notebooks (CNN, ResNet50/101)
- 
  ├── test/   # Jupyter notebooks (CNN, ResNet50/101)
- 
  ├── train/      # PDF report
- 
  ├── report/      # PDF report
- 
  ├── images/      # key figures for README
- 
  └── README.md
+```
 
  ## 📄 References
  - Krizhevsky et al., ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS, 2012)
