@@ -80,4 +80,27 @@ Pipeline:
 
 ---
 
-## 📂 Repository structure
+## 📎 Repository Structure
+```
+/Project2_ComputerVision
+ ├── POD/               # Proper Orthogonal Decomposition (POD / PCA)
+ ├── data_genaration/   # Image generation / processing
+ ├── report/            # PDF report
+ ├── images/            # key figures for README
+ └── README.md
+```
+
+ ## 📄 References
+[1]  Robin Fréville. Transitions de phase et microstructures induites dans les métaux en conditions extrêmes : fer et étain. Science des matériaux [cond-mat.mtrl-sci]. Université Paris-Saclay, 2023. Français. ⟨NNT : 2023UPASP133⟩. ⟨tel-04499904⟩
+
+[2] Cours Master 2 ATSI, Méthodes par patchs pour la photographie computationelle :Image and video inpainting, Yann Gousseau. 
+
+[3] A Qualitative Report on Diffusion based Image Inpainting Models, Gamini Sridevi and Srinivas Kumar
+
+[4] Image Inpainting, Bertalmio et al.
+
+[5] PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing, Barnes et al.
+
+[6] A Generalized Laplacian of Gaussian Filter for Blob Detection and Its Applications, Hui Kong, Hatice Cinar Akakin, and Sanjay E. Sarma
+
+[7] A fast methodology to determine the characteristics of thousands of grains using three-dimensional X-ray diffraction. I. Overlapping diffraction peaks and parameters of the experimental setup, Hemant Sharma, Richard M. Huizenga and S. Erik Offerman
