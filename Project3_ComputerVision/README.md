@@ -45,8 +45,10 @@ However, experimental images often suffer from:
 - Add **Ridge regularization** for stability under noise
 
 Pipeline:
+<p>
+  <img src="images/pipeline.png" alt="POD pipeline" width="60%">
+</p>
 
-<img src="images/pipeline.png" alt="POD pipeline" width="60%">
 
 ---
 
@@ -54,10 +56,11 @@ Pipeline:
 - Extract training blobs from real diffraction images  
 - Reconstruct masked blobs using POD projection  
 - Evaluate quality with **MSE, PSNR, SSIM**  
-
-<img src="images/mode.png" alt="mode" width="60%">
-<img src="images/reconstruction_1.png" alt="mode" width="60%">
-<img src="images/reconstruction_2.png" alt="mode" width="60%">
+<p>
+  <img src="images/mode.png" alt="mode" width="60%">
+  <img src="images/reconstruction_1.png" alt="mode" width="60%">
+  <img src="images/reconstruction_2.png" alt="mode" width="60%">
+</p>
 
 ---
 
