@@ -35,7 +35,14 @@ We study the link between electricity consumption and temperature, with an empha
    - Added **Fourier terms** (seasonal effects) and **cubic splines** (flexible trends).  
    - Integrated into a **Generalized Additive Model (GAM)**.  
    - Robustness checked with **K-Fold cross-validation (K=5)**.  
-   - Best model with **208 coefficients** → MAPE ≈ **3.2%** forecasting, stable predictions.  
+   - Best model with **208 coefficients** → MAPE ≈ **3.2%** forecasting, stable predictions.
+  
+<p align="center">
+  <img src="images/poly_corr.png" alt="Correlation between temperature and consumption" width="60%">
+  <img src="images/poly_pred.png" alt="Electricity consumption fit" width="60%">
+  <img src="images/pred.png" alt="Electricity consumption forecast" width="60%">
+</p>
+
 
 ---
 
