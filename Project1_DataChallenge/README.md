@@ -41,8 +41,10 @@ The goal was to automatically detect defective components from camera images to 
 ---
 
 ## 📷 Visuals
-<img src="images/results.png" alt="results" width="60%">
-<img src="images/tab-resume.png" alt="results" width="60%">
+<p align="center">
+  <img src="images/results.png" alt="results" width="60%">
+  <img src="images/tab-resume.png" alt="results" width="60%">
+</p>
 
 ## 📎 Repository Structure
 ```
