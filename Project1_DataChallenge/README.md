@@ -41,7 +41,7 @@ The goal was to automatically detect defective components from camera images to 
 ---
 
 ## 📷 Visuals
-*(to be added in `/images` folder)*
+![Pipeline](images/results.png)
 
 ```markdown
 ![Pipeline](images/pipeline.png)
