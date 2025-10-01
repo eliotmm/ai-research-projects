@@ -41,6 +41,6 @@ The goal was to automatically detect defective components from camera images to 
 ---
 
 ## 📷 Visuals
-![results](images/results.png)
-![tab-resum](images/tab-resume.png)
+<img src="images/results.png" alt="results" width="60%">
+<img src="images/tab-resume.png" alt="results" width="60%">
 
