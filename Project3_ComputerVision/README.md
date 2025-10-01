@@ -36,8 +36,6 @@ However, experimental images often suffer from:
   - Local minima detection
   - Region growing until flooding frontiers meet
 
-<img src="images/watershed_segmentation.png" alt="Watershed segmentation" width="60%">
-
 ---
 
 ### 2. Reconstruction by Proper Orthogonal Decomposition (POD / PCA)
@@ -48,7 +46,7 @@ However, experimental images often suffer from:
 
 Pipeline:
 
-<img src="images/pod_pipeline.png" alt="POD pipeline" width="60%">
+<img src="images/pipeline.png" alt="POD pipeline" width="60%">
 
 ---
 
@@ -57,7 +55,9 @@ Pipeline:
 - Reconstruct masked blobs using POD projection  
 - Evaluate quality with **MSE, PSNR, SSIM**  
 
-<img src="images/blob_reconstruction.png" alt="Reconstruction example" width="60%">
+<img src="images/mode.png" alt="mode" width="60%">
+<img src="images/reconstruction_1.png" alt="mode" width="60%">
+<img src="images/reconstruction_2.png" alt="mode" width="60%">
 
 ---
 
