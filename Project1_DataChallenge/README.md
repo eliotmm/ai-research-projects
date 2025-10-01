@@ -41,9 +41,6 @@ The goal was to automatically detect defective components from camera images to 
 ---
 
 ## 📷 Visuals
-![Pipeline](images/results.png)
+![results](images/results.png)
+![tab-resum](images/tab-resume.png)
 
-```markdown
-![Pipeline](images/pipeline.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![t-SNE Visualization](images/tsne.png)
